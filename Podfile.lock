@@ -1,0 +1,16 @@
+PODS:
+  - Firebase (2.5.1)
+  - OMGHTTPURLRQ/UserAgent (3.1.1)
+  - TDOAuth (1.1.2):
+    - OMGHTTPURLRQ/UserAgent
+
+DEPENDENCIES:
+  - Firebase
+  - TDOAuth (~> 1.1)
+
+SPEC CHECKSUMS:
+  Firebase: 3565ea88b830f28f2c77ecc524622bc71a20d085
+  OMGHTTPURLRQ: 633f98ee745aeda02345935a52eec1784cddb589
+  TDOAuth: f7e356e834295b83c7b5066ee72a30f128c5f722
+
+COCOAPODS: 0.39.0
